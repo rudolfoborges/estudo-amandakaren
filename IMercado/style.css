@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.lista-produtos {
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    margin-top: 50px;
+    width: 80%;
+}
+
+.lista-produtos ul {
+    display: grid;
+    grid-gap: 10px;
+}
+
+.estoque li.produto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    width: 220px;
+    height: 220px;
+    border: 1px dotted #000;
+}
