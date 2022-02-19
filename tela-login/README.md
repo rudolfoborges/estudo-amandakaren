@@ -11,8 +11,8 @@
 
 # Tamanho dos componentes
 
-![alt Tamanho](/doc/image1.png)
-![alt Tamanho](/doc/image2.png)
-![alt Tamanho](/doc/image3.png)
-![alt Tamanho](/doc/image4.png)
+![alt Tamanho 1](https://github.com/rudolfoborges/estudo-amandakaren/blob/main/tela-login/doc/image1.png)
+![alt Tamanho 2](https://github.com/rudolfoborges/estudo-amandakaren/blob/main/tela-login/doc/image2.png)
+![alt Tamanho 3](https://github.com/rudolfoborges/estudo-amandakaren/blob/main/tela-login/doc/image3.png)
+![alt Tamanho 4](https://github.com/rudolfoborges/estudo-amandakaren/blob/main/tela-login/doc/image4.png)
 
