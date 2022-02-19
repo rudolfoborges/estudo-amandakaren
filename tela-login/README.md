@@ -6,8 +6,8 @@
 # Textos
 - Fonte: Roboto
 - Tamanhos:
--- Título: 18px
--- Normal: 16px
+  - Título: 18px
+  - Normal: 16px
 
 # Tamanho dos componentes
 
